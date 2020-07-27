@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"570090000023107733",
+		"product_id":"9105385871708573278",
+		"client_id":"321726647063544896",
+		"client_secret":"676BC6ED2A9BDF620FC7CBF2338F19A019ED6B787958CED26E8E3EEEA76CD3EA",
+		"app_id":"102609095",
+		"package_name":"com.engin.cloudnote",
+		"api_key":"CV6bAbQQXHbuROmHPzcILwCZ8aTFfpOcSukRRfNc2FJEzcRk+b7lvnxGk/Y7funqwaMoWSWbiTszmE8SFSfk5XMmuyfH"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
